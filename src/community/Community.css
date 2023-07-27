@@ -1,0 +1,14 @@
+.parent {
+    display: flex;
+  }
+  
+  .child {
+    position: sticky;
+    top: 0;
+    height: 100vh; /* Ensure that the sticky columns take up the full height of the viewport */
+  }
+  
+  .child1 {
+    flex: 2; /* This will make the middle column twice as wide as the other columns */
+    overflow-y: auto; /* Enable vertical scrolling for the middle column */
+  }

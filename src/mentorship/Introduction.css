@@ -1,0 +1,15 @@
+.intro
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVAAAACWCAMAAAC/8CD2AAAAA1BMVEX7++ROxL/8AAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF8GxXYAARizDlgAAAAASUVORK5CYII=");
+    background-size: cover;
+    padding: 30px;
+    
+
+}
+.innerblock1
+{
+    color: #1c4980;
+    margin-top:50px ;
+}
